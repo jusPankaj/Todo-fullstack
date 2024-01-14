@@ -1,0 +1,12 @@
+{
+  "name": "todo-react",
+  "version": "1.0.0",
+  "description": "This project contains a simple TODO application It has the following features :-     -Anyone can create a todo     -Anyone can see their existing     -Anyone can make a todo as done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
